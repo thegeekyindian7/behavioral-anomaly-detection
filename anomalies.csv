@@ -1,0 +1,21 @@
+Window,Component,Level,EventFrequency,AnomalyScore
+Row(start=datetime.datetime(2008, 11, 11, 4, 43), end=datetime.datetime(2008, 11, 11, 4, 44)),dfs.FSNamesystem,INFO,206354,206353.43194993612
+Row(start=datetime.datetime(2008, 11, 10, 21, 1), end=datetime.datetime(2008, 11, 10, 21, 2)),dfs.FSNamesystem,INFO,190844,190843.4319499984
+Row(start=datetime.datetime(2008, 11, 10, 10, 31), end=datetime.datetime(2008, 11, 10, 10, 32)),dfs.FSNamesystem,INFO,178454,178453.43195005596
+Row(start=datetime.datetime(2008, 11, 10, 10, 30), end=datetime.datetime(2008, 11, 10, 10, 31)),dfs.FSNamesystem,INFO,127580,127579.43195040937
+Row(start=datetime.datetime(2008, 11, 11, 7, 56), end=datetime.datetime(2008, 11, 11, 7, 57)),dfs.FSNamesystem,INFO,109026,109025.43195062036
+Row(start=datetime.datetime(2008, 11, 10, 22, 6), end=datetime.datetime(2008, 11, 10, 22, 7)),dfs.FSNamesystem,INFO,107743,107742.43195063765
+Row(start=datetime.datetime(2008, 11, 11, 11, 4), end=datetime.datetime(2008, 11, 11, 11, 5)),dfs.FSNamesystem,INFO,107248,107247.43195064442
+Row(start=datetime.datetime(2008, 11, 11, 8, 59), end=datetime.datetime(2008, 11, 11, 9, 0)),dfs.FSNamesystem,INFO,105103,105102.43195067451
+Row(start=datetime.datetime(2008, 11, 11, 6, 52), end=datetime.datetime(2008, 11, 11, 6, 53)),dfs.FSNamesystem,INFO,104527,104526.4319506828
+Row(start=datetime.datetime(2008, 11, 11, 2, 30), end=datetime.datetime(2008, 11, 11, 2, 31)),dfs.FSNamesystem,INFO,103071,103070.43195070418
+Row(start=datetime.datetime(2008, 11, 10, 10, 35), end=datetime.datetime(2008, 11, 10, 10, 36)),dfs.FSDataset,INFO,83848,83847.43198832472
+Row(start=datetime.datetime(2008, 11, 10, 21, 5), end=datetime.datetime(2008, 11, 10, 21, 6)),dfs.FSDataset,INFO,83521,83520.43198847803
+Row(start=datetime.datetime(2008, 11, 11, 4, 47), end=datetime.datetime(2008, 11, 11, 4, 48)),dfs.FSDataset,INFO,82378,82377.43198902343
+Row(start=datetime.datetime(2008, 11, 10, 10, 36), end=datetime.datetime(2008, 11, 10, 10, 37)),dfs.FSDataset,INFO,78318,78317.43199108947
+Row(start=datetime.datetime(2008, 11, 11, 11, 5), end=datetime.datetime(2008, 11, 11, 11, 6)),dfs.FSDataset,INFO,70522,70521.43199572361
+Row(start=datetime.datetime(2008, 11, 11, 9, 1), end=datetime.datetime(2008, 11, 11, 9, 2)),dfs.FSDataset,INFO,60536,60535.432003403235
+Row(start=datetime.datetime(2008, 11, 10, 10, 37), end=datetime.datetime(2008, 11, 10, 10, 38)),dfs.FSDataset,INFO,59270,59269.43200456167
+Row(start=datetime.datetime(2008, 11, 11, 2, 32), end=datetime.datetime(2008, 11, 11, 2, 33)),dfs.FSDataset,INFO,58345,58344.43200543986
+Row(start=datetime.datetime(2008, 11, 11, 6, 54), end=datetime.datetime(2008, 11, 11, 6, 55)),dfs.FSDataset,INFO,58119,58118.43200565868
+Row(start=datetime.datetime(2008, 11, 10, 22, 9), end=datetime.datetime(2008, 11, 10, 22, 10)),dfs.FSDataset,INFO,57214,57213.43200655222
